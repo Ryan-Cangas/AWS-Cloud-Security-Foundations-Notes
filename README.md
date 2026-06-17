@@ -1,6 +1,6 @@
 # AWS Cloud Security Certification Notes
 
-A comprehensive study repository for the AWS Cloud Security course. This repo contains detailed technical breakdowns, architectural summaries, and lab walk-throughs across the 7 core modules covering course overviews, access security, infrastructure defense, data protection, and incident response management.
+A comprehensive self study repository for the AWS Cloud Security course. This repo contains detailed technical breakdowns, architectural summaries, and lab walk-throughs across the 7 core modules covering course overviews, access security, infrastructure defense, data protection, and incident response management.
 
 ---
 
